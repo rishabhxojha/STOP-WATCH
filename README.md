@@ -9,4 +9,4 @@ Reset: Reset the timer to zero.
 Lap Functionality: Record lap times (optional, if implemented).
 Responsive Design: Works on both desktop and mobile devices.
 
-👉Live Demo:https://rishabhxojha.github.io/STOP-WATCH/
+👉Live Demo: https://rishabhxojha.github.io/STOP-WATCH/
